@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "44590268831",
+    "project_id": "lechonk-fc8a5",
+    "storage_bucket": "lechonk-fc8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44590268831:android:3f1e3e66570c540e16bdaa",
+        "android_client_info": {
+          "package_name": "com.example.geodude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44590268831-uimdopdubfcp0u1obnuvcamvhlt73sdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIsx6oMqJ1sVse8l_zKZnoynVg9qHjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44590268831-uimdopdubfcp0u1obnuvcamvhlt73sdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44590268831-k8h0fej8oiiqficp8b90qk4huf4ohl7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geodude"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44590268831:android:079b698568f0f34b16bdaa",
+        "android_client_info": {
+          "package_name": "com.example.lechonk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44590268831-uimdopdubfcp0u1obnuvcamvhlt73sdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIsx6oMqJ1sVse8l_zKZnoynVg9qHjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44590268831-uimdopdubfcp0u1obnuvcamvhlt73sdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44590268831-k8h0fej8oiiqficp8b90qk4huf4ohl7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geodude"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
